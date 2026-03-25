@@ -62,5 +62,5 @@ Clone repository: https://github.com/rgoantunez/python-katas.git
 ## 👨‍💻 Autor
 
 **Rodrigo Antúnez**  
-Economist | Python Developer in Training  
+Economist | Python Developer in training  
 GitHub: https://github.com/rgoantunez
