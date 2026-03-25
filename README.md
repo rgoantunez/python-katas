@@ -6,29 +6,52 @@ A curated collection of Python katas focused on strengthening problem-solving sk
 
 This repository showcases a collection of hands-on coding exercises aimed at developing strong logical thinking and clean coding practices.  
 
-## 📌 Topics Covered
-
-- Functional programming (`map`, `filter`, `reduce`)
-- Recursion
-- Exception handling
-- Data structures
-- Algorithms and logic
-- Object-Oriented Programming (OOP)
-
-## 📂 Structure
-
-Each exercise (kata) is implemented as an individual function or script, focusing on a specific concept or problem.
-
-## 🧠 Objectives
+## 🎯 Key Objectives
 
 - Improve problem-solving skills
 - Practice clean and readable Python code
 - Reinforce core programming concepts
 - Prepare for technical interviews
 
+## 📌 Topics Covered
+
+### 🔹 Core Concepts
+- Data structures (lists, tuples, dictionaries, sets)
+- Conditional logic (`if`, `elif`, `else`)
+- Iteration & transformations
+
+### 🔹 Functional Programming
+- `map`, `filter`, `reduce`
+- Lambda functions
+
+### 🔹 Problem Solving
+- Algorithmic thinking
+- Searching & filtering
+- Aggregations (sum, averages, products)
+
+### 🔹 Data Handling
+- String manipulation & text processing
+- Data cleaning & type handling
+- Working with mixed data types
+
+### 🔹 Error Handling
+- Exception handling
+- Custom exceptions
+- Input validation
+
+### 🔹 Object-Oriented Programming (OOP)
+- Class design
+- Methods implementation
+- State management
+- Business logic simulations
+
+## 📂 Structure
+
+Each exercise (kata) is implemented as an individual function or script, focusing on a specific concept or problem.
+
 ## 🛠️ Technologies
 
-- Python 3.14
+- Python 3
 - Jupyter Notebook
 - VS Code
 
